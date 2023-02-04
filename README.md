@@ -5,7 +5,7 @@ This program works as a simple text editor
 Mostly, this exists in order for me to mess around with java as a language and see the things that it can do, especially dealing with 
 files.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Io5wZJh8EII)
 
 # Development Environment
 
